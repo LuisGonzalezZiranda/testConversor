@@ -1,0 +1,16 @@
+C:\Users\Luis\source\repos\tdd\tdd\bin\Debug\net5.0\tdd.exe
+C:\Users\Luis\source\repos\tdd\tdd\bin\Debug\net5.0\tdd.deps.json
+C:\Users\Luis\source\repos\tdd\tdd\bin\Debug\net5.0\tdd.runtimeconfig.json
+C:\Users\Luis\source\repos\tdd\tdd\bin\Debug\net5.0\tdd.runtimeconfig.dev.json
+C:\Users\Luis\source\repos\tdd\tdd\bin\Debug\net5.0\tdd.dll
+C:\Users\Luis\source\repos\tdd\tdd\bin\Debug\net5.0\ref\tdd.dll
+C:\Users\Luis\source\repos\tdd\tdd\bin\Debug\net5.0\tdd.pdb
+C:\Users\Luis\source\repos\tdd\tdd\obj\Debug\net5.0\tdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\source\repos\tdd\tdd\obj\Debug\net5.0\tdd.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\tdd\tdd\obj\Debug\net5.0\tdd.AssemblyInfo.cs
+C:\Users\Luis\source\repos\tdd\tdd\obj\Debug\net5.0\tdd.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\tdd\tdd\obj\Debug\net5.0\tdd.dll
+C:\Users\Luis\source\repos\tdd\tdd\obj\Debug\net5.0\ref\tdd.dll
+C:\Users\Luis\source\repos\tdd\tdd\obj\Debug\net5.0\tdd.pdb
+C:\Users\Luis\source\repos\tdd\tdd\obj\Debug\net5.0\tdd.genruntimeconfig.cache
+C:\Users\Luis\source\repos\tdd\tdd\obj\Debug\net5.0\tdd.csproj.AssemblyReference.cache
